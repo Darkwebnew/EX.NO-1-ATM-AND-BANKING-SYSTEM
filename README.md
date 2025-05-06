@@ -2,8 +2,10 @@
 
 # AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of ATM System.
+
 # PROBLEM STATEMENT:
 To create ATM System software that will meet the needs of the applicant and help them to withdraw money,deposit.
+
 # UML DIAGRAMS:
 
 ## USE CASE:
@@ -30,3 +32,5 @@ To create ATM System software that will meet the needs of the applicant and help
 
 ![image](https://github.com/user-attachments/assets/f294ae40-0cff-47af-8318-b9f7ddbc7e32)
 
+# RESULT:
+Thus the ATM and banking system project was executed and the output was verified.
